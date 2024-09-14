@@ -22,7 +22,7 @@
   "author": "Black Valentine",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/blackvalentine/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
